@@ -1,0 +1,5 @@
+resources:
+- ../../base   # base를 가져오고
+
+patches:
+- path: patch.yaml   # 이걸로 덮어씌움

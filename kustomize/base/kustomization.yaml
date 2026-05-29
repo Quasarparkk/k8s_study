@@ -1,0 +1,5 @@
+# 이 폴더에 있는 파일 목록
+
+resources:
+- deployment.yaml
+- service.yaml

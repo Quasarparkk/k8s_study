@@ -1,0 +1,8 @@
+# base에서 바꾸고 싶은 것만!
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: my-app
+spec:
+  replicas: 1  # dev는 1개
